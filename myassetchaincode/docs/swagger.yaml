@@ -1,0 +1,9 @@
+basePath: /v1
+host: localhost:8080
+info:
+  contact: {}
+  description: API for managing assets using Hyperledger Fabric Chaincode
+  title: My Asset Chaincode API
+  version: "1.0"
+paths: {}
+swagger: "2.0"
